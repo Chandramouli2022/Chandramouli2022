@@ -1,51 +1,57 @@
 # 👋 Hi, I'm Panyam Nagachandra Mouli
 
-I'm a Full Stack Developer with a strong focus on building scalable applications, cloud-native solutions, and clean, maintainable code.  
-Currently working at **Tata Power (TPSODL)** as a Lead Engineer, I develop full-stack platforms and DevOps pipelines supporting 1,000+ active users.
+I'm a Full Stack Developer passionate about solving real-world problems with clean code, scalable systems, and cloud-native applications. Currently, I work at **Tata Power (TPSODL)** as a Lead Engineer, building full-stack and DevOps solutions that directly impact over 1,000 users.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack & Tools
 
-**Languages:** JavaScript, TypeScript, Python, C++, SQL, HTML, CSS  
-**Frontend:** React.js, Next.js, React Native, Redux Toolkit, Tailwind CSS  
-**Backend:** Node.js, Express.js, REST APIs, GraphQL, WebSockets, JWT  
-**Databases:** PostgreSQL, MySQL, MongoDB, Firebase  
-**DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Beanstalk), Nginx, CI/CD  
-**Tools:** VS Code, Postman, Git, GitHub, GitLab, Webpack, Figma, Excel
+**Languages**  
+JavaScript • TypeScript • Python • C++ • SQL • HTML • CSS • SCSS
 
----
+**Frontend**  
+React.js • Next.js • React Native • Redux Toolkit • Tailwind CSS
 
-## 🔧 Projects
+**Backend & APIs**  
+Node.js • Express.js • REST APIs • GraphQL • WebSockets • JWT
 
-### [Array Visualizer & Code Editor](https://github.com/Chandramouli2022/dsa-array-visualizer-code-editor)
-Visual tool for learning array-based DSA with live feedback.  
-*React, Context API, Monaco Editor*  
-→ Supports Python & JavaScript • Live Output • Theme Switching
+**Databases**  
+PostgreSQL • MySQL • MongoDB • Firebase
 
-### [ExpensifyX](https://github.com/Chandramouli2022/expensifyx)  
-Budget tracking app with Firebase integration.  
-*React, Firebase, Axios*  
-→ Secure Auth • Real-time Sync • Optimized API Calls
+**DevOps & Cloud**  
+Docker • Kubernetes • AWS (EC2, S3, Beanstalk) • Nginx • CI/CD
 
-### [Burger Queen](https://github.com/Chandramouli2022/food-ordering)  
-Responsive food ordering app with dynamic menu filtering.  
-*React, Tailwind CSS*  
-→ Search by Name/Price • SEO Optimized • Mobile-Friendly
+**Tools**  
+VS Code • Postman • Git • GitHub • GitLab • Webpack • Figma • Excel
 
 ---
 
-## 🏆 Highlights
+## 🛠 Featured Projects
 
-- Solved 250+ problems on LeetCode, HackerRank (DSA & Algorithms)
-- 1st Place – *“Ethical Crossroads in AI”*, Tata Power Case Study
-- Contributed to internal tools saving 60%+ reporting time
-- Strong team player, agile practitioner, and code reviewer
+### 🔍 [Array Visualizer & Code Editor](https://github.com/Chandramouli2022/dsa-array-visualizer-code-editor)
+Interactive DSA learning tool built with React, Monaco Editor, and Context API.  
+✅ Real-time feedback | ✅ Python & JavaScript support | ✅ Theme switcher
+
+### 💰 [ExpensifyX](https://github.com/Chandramouli2022/expensifyx)
+Budget tracking app using React, Firebase, Axios.  
+🔐 Firebase Auth | ⚡ Instant database sync | 🚀 Load times reduced by 30%
+
+### 🍔 [Burger Queen](https://github.com/Chandramouli2022/food-ordering)
+Food ordering app with responsive design and dynamic filtering.  
+✅ Tailwind CSS | 🔍 Menu search | 📱 Mobile-first UX
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Achievements
 
-- [LinkedIn](https://www.linkedin.com/in/panyam-nagachandra-mouli-251670229)  
-- [Portfolio](https://portfolio-chandra-mouli.netlify.app/)  
+- 🧠 Solved 250+ DSA problems (LeetCode, HackerRank, etc.)
+- 🥇 Winner of “Ethical Crossroads in AI” – Tata Power Case Study
+- 🤝 Strong Agile collaborator, DevOps contributor, and code reviewer
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/panyam-nagachandra-mouli-251670229)
+- 🌐 [Portfolio](https://portfolio-chandra-mouli.netlify.app/)
 - 📧 chandramouli.panyam@gmail.com
